@@ -1,5 +1,14 @@
-.sidebar {
-  width: 50%;
+.my-class {
+  border: 4px solid green;
+  padding: 4px;
+  float:right;
+  margin-right: 8px;
+}
+
+.column {
+  width: 300px;
+  border: 4px solid green;
+  padding: 10px;
+  margin: 8px;
   float: left;
-  background-color: blue;
 }
